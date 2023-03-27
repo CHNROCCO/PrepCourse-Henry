@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de Prueba del modulo2  del PrepCourse Henry
+Prueba de como crear un repositorio de gibhab y clonarlo a mi compu
